@@ -1,4 +1,3 @@
-let nomeUsuario = prompt('qual o seu nome?')
+let nomeUsuario = 'Yuri, Juan, Numbers';
 
-console.log(nomeUsuario);
-document.write(nomeUsuario)
+alert(Yuri, Juan, Numbers);
