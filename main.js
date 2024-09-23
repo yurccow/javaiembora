@@ -1,6 +1,6 @@
-// let nomeUsuario = 'Yuri, Juan, Numbers';
-
-// alert(nomeUsuario)
+let nomeUsuario = 'Yuri';
+alert("fiz sozinho")
+alert(nomeUsuario)
 
 function soma(a,b){
     return a+b;
