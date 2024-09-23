@@ -12,4 +12,4 @@ function multiplication(a,b){
     return a*b;
 }
 
-console.log(multiplication(6,6))
+console.log("este é o resultado", multiplication(6,6))
