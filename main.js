@@ -6,10 +6,10 @@ function soma(a,b){
     return a+b;
 }
 
-console.log(soma(6,6))
+console.log("a soma de dois lados do quadrado é", soma(6,6))
 
 function multiplication(a,b){
     return a*b;
 }
 
-console.log("este é o resultado", multiplication(6,6))
+console.log("a área do quadrado é", multiplication(6,6))
