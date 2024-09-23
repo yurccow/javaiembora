@@ -22,4 +22,6 @@ console.log("a área do triângulo é", areaTriangulo(6,6), "cm²")
 
 
 let valores = parseInt(prompt("diga 3 valores para eu te dar a média"))
-alert(valores)
+   
+alert((a+b+c)/2)
+
