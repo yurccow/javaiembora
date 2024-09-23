@@ -1,3 +1,10 @@
-let nomeUsuario = 'Yuri, Juan, Numbers';
+// let nomeUsuario = 'Yuri, Juan, Numbers';
 
-alert(nomeUsuario)
+// alert(nomeUsuario)
+
+
+function soma(1, 2){
+    return 1+2;
+}
+
+console.log(soma)
