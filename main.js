@@ -21,4 +21,4 @@ let areaTriangulo = function(a,b){
     return a*b/2;
 }
 
-console.log("a área do triângulo é", areaTriangulo, "cm²")
+console.log("a área do triângulo é", areaTriangulo(6,6), "cm²")
