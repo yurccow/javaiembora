@@ -39,5 +39,5 @@ let estados = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT',
 let i = 0;
 
 while(i<10){
-    console.log(i);
+    console.log();
 }
