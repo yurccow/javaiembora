@@ -35,16 +35,25 @@
 
 
 
-let estados = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO'];
-let i = 0;
+// let estados = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO'];
+// let i = 0;
 
-while(i<27){
-    console.log(i);
-    console.log(estados[i]);
-    i = i+1;
+// while(i<27){
+//     console.log(i);
+//     console.log(estados[i]);
+//     i = i+1;
+// }
+
+// for (let i = 0; i < estados.length; i++) {
+//     const element = estados[i];
+//     console.log(estados[i]);
+// }
+
+let idade = parseInt(prompt("qual sua idade?"))
+
+if(idade>17){
+    console.log("pode dirigir");
 }
-
-for (let i = 0; i < estados.length; i++) {
-    const element = estados[i];
-    console.log(estados[i]);
+else{
+    console;log("ilegal dirigir")
 }
