@@ -43,3 +43,8 @@ while(i<27){
     console.log(estados[i]);
     i = i+1;
 }
+
+for (let i = 0; i < estados.length; i++) {
+    const element = estados[i];
+    console.log(estados[i]);
+}
