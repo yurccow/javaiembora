@@ -40,5 +40,6 @@ let i = 0;
 
 while(i<=27){
     console.log(i);
+    console.log(estados[i]);
     i = i+1;
 }
